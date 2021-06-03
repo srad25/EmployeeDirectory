@@ -1,0 +1,14 @@
+    .downArrow {
+    width: 0;
+    height: 10;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    cursor: pointer; 
+    border-top: 10px solid #b6b2b2;
+    margin-top: 50px;
+    position: relative;
+    top: 16px;
+    left: 10px;
+  }
+  
+   
