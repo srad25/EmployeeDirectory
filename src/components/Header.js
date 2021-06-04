@@ -5,7 +5,7 @@ function Header() {
   <div>
       <div className="container">
       <h2 className="display-4">Employee Directory</h2>
-      <p> Search for an employee by entering their name or email below.</p>
+      <p> Search for an employee by entering their first or last name below.</p>
     </div>
   </div>
 
