@@ -14,7 +14,7 @@ For this assignment, you'll create a employee directory with React. This assignm
 * JavaScript
 * axios
 * gh-pages
-* moment
+* dateformat
 * react
 * readt-dom
 * react-scripts
@@ -25,7 +25,9 @@ For this assignment, you'll create a employee directory with React. This assignm
 ## Screenshot
 ![homepage](./public/emp1.png)
 
+## Viewed Deployed Project
+
 
 ## Contact
 
-You can follow my repositories at https://www.github.com/srad25
+You can follow my repositories at [Github](https://www.github.com/srad25)
