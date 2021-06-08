@@ -25,7 +25,8 @@ For this assignment, you'll create a employee directory with React. This assignm
 ## Screenshot
 ![homepage](./public/emp1.png)
 
-## Viewed Deployed Project
+## ViewDeployed Project
+https://srad25.github.io/EmployeeDirectory
 
 
 ## Contact
