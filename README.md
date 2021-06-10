@@ -21,11 +21,16 @@ For this assignment, you'll create a employee directory with React. This assignm
 * web-vitals
 * Random User API
 
+## Licensing
+
+[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+
+
 
 ## Screenshot
 ![homepage](./public/emp1.png)
 
-## ViewDeployed Project
+## View Deployed Project
 https://srad25.github.io/EmployeeDirectory
 
 
